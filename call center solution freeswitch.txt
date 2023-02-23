@@ -1,1 +1,14 @@
 call center solution freeswitch
+
+
+
+FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches …
+
+This project can be used to deploy a FreeSWITCH server inside a Docker container. The container currently uses the la…
+
+The World's First Cross-Platform Scalable FREE Multi-Protocol Soft Switch
+
+使用FreeSWITCH接受用户手机呼叫，通过UniMRCP Server集成讯飞开放平台（xfyun）插件将用户语音进行语音识别（ASR），并根据自定义业务逻辑调用语音合成（TTS），构建简单的端到端语音呼叫中心。
+
+A ruby library for integrating with the FreeSWITCH phone system through its Event Socket interface
+
